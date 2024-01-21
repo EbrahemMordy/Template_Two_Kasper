@@ -4,7 +4,7 @@
 
 Template Two Kasper is a versatile and elegantly designed website template suitable for a wide range of projects.
 
-![Template Two Kasper Screenshot](https://github.com/therealebrahem/Template_Two_Kasper/blob/fcade10a750ff91e72aba0a2ddaf0f886f5f1641/kasper-Template-Two.png)
+![Template Two Kasper Screenshot](https://github.com/EbrahemMordy/Template_Two_Kasper/blob/fcade10a750ff91e72aba0a2ddaf0f886f5f1641/kasper-Template-Two.png)
 
 ## Features
 
